@@ -1,3 +1,4 @@
+<<<<<<< 38c5e47d3df34f92df4ae7dbed74b488f9c4b2da
 # Compiled class file
 *.class
 
@@ -20,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+/build
+>>>>>>> first commit
